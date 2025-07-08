@@ -3,10 +3,10 @@
   "apiKey": "4e74847e25e72f3b241cb584cf838af11b8184b5",
   "apiDomain": "Easysky.in",
   "firebaseDbUrl": "https://animohubvip-703e9-default-rtdb.asia-southeast1.firebasedatabase.app",
-  "tokenRequestUrl": "https://pinverification.netlify.app/.netlify/functions/request-token",
+  "tokenRequestUrl": "https://glistening-baklava-ddbab7.netlify.app/.netlify/functions/request-token",
 
   "verification": {
-    "longUrl": "https://pinverification.netlify.app/verify",
+    "longUrl": "https://glistening-baklava-ddbab7.netlify.app/verify",
     "useHours": true,
     "durationHours": 6,
     "durationMinutes": 5
