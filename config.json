@@ -4,12 +4,23 @@
   "apiDomain": "Easysky.in",
   "firebaseDbUrl": "https://animohubvip-703e9-default-rtdb.asia-southeast1.firebasedatabase.app",
   "tokenRequestUrl": "https://glistening-baklava-ddbab7.netlify.app/.netlify/functions/request-token",
+  
+  "checkStatusUrl": "https://adsshort.netlify.app/.netlify/functions/check-status",
+
+  "dialogSystem": {
+    "enabled": true 
+  },
 
   "verification": {
     "longUrl": "https://glistening-baklava-ddbab7.netlify.app/verify",
     "useHours": true,
     "durationHours": 6,
     "durationMinutes": 5
+  },
+  
+  "infoMessages": {
+    "premiumMessage": "Device Id Only For Premium User",
+    "warningMessage": "Tablet, TV And VPN Not Allowed."
   },
 
   "links": {
