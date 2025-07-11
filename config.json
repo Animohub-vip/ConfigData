@@ -3,7 +3,7 @@
   "activeSystem": "vps",
   "apiKey": "4e74847e25e72f3b241cb584cf838af11b8184b5",
   "apiDomain": "Easysky.in",
-  "serverUrl": "http://193.203.162.186:3000",
+  "firebaseDbUrl": "http://193.203.162.186:3000",
   "tokenRequestUrl": "https://glistening-baklava-ddbab7.netlify.app/.netlify/functions/request-token",
 
   "dialogSystem": {
