@@ -1,11 +1,10 @@
 {
-  "dialogTitle": "MODS",
+  "dialogTitle": "ANIMOHUB",
+  "activeSystem": "vps",
   "apiKey": "4e74847e25e72f3b241cb584cf838af11b8184b5",
   "apiDomain": "Easysky.in",
-  "firebaseDbUrl": "https://animohubvip-703e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "serverUrl": "http://193.203.162.186:3000",
   "tokenRequestUrl": "https://glistening-baklava-ddbab7.netlify.app/.netlify/functions/request-token",
-  
-  "checkStatusUrl": "https://adsshort.netlify.app/.netlify/functions/check-status",
 
   "dialogSystem": {
     "enabled": true 
@@ -14,7 +13,7 @@
   "verification": {
     "longUrl": "https://glistening-baklava-ddbab7.netlify.app/verify",
     "useHours": true,
-    "durationHours": 6,
+    "durationHours": 70,
     "durationMinutes": 5
   },
   
@@ -24,9 +23,9 @@
   },
 
   "links": {
-    "joinUs": "https://t.me/YammyMods",
-    "contact": "https://t.me/GG_YAMIN",
-    "tutorial": "https://youtube.com/@yaminahmed?si=RyfMAqKiFz7I8gg3"
+    "joinUs": "https://telegram.dog/Animohub",
+    "contact": "https://telegram.dog/Animohub",
+    "tutorial": "https://go.animohubapk.com/JxYmY"
   },
 
   "expireSystem": {
