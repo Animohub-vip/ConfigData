@@ -1,7 +1,7 @@
 {
   "dialogTitle": "ANIMOHUB",
-  "apiKey": "4e74847e25e72f3b241cb584cf838af11b8184b5",
-  "apiDomain": "Easysky.in",
+  "apiKey": "c13a6be54a41dc819547c7f6ce91d96242de3428",
+  "apiDomain": "arlinks.in",
   "firebaseDbUrl": "https://animohubvip-703e9-default-rtdb.asia-southeast1.firebasedatabase.app",
   "tokenRequestUrl": "https://glistening-baklava-ddbab7.netlify.app/.netlify/functions/request-token",
   
